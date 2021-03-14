@@ -1,0 +1,33 @@
+@media (min-width:320px) and (max-width:575px){
+
+    #canvas{
+        height: 666px;
+        width: 100%;
+    }
+    #banner .overlay .text p{
+        width: 307px;
+    }
+    
+}
+@media (min-width:576px) and (max-width:767px){
+
+    #canvas{
+        height: 666px;
+        width: 100%;
+    }
+    #banner .overlay .text p{
+        width: 307px;
+    }
+    
+}
+@media (min-width:768px) and (max-width:991px){
+
+    #canvas{
+        height: 666px;
+        width: 100%;
+    }
+    #banner .overlay .text p{
+        width: 307px;
+    }
+    
+}
