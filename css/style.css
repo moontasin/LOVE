@@ -64,7 +64,7 @@ h6 {
 
 /* =====================menu-part==================== */
 
-nav {
+.bo {
   background: transparent;
   width: 100%;
   position: absolute !important;
@@ -80,7 +80,7 @@ nav {
   background-color: rgba(255, 255, 255, 0.05);
 
 }
-nav h2{
+.bo h2{
   font-family: 'Oswald', sans-serif;
   font-size: 33px;
   color: rgb(255, 255, 255);
@@ -92,9 +92,6 @@ nav h2{
 /* =====================menu-part==================== */
 
 /* =====================banner-part==================== */
-#banner .overlay .res{
-    color: #fff;
-  }
 
 #banner {
   background-size: cover;
