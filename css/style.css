@@ -106,12 +106,6 @@ h6 {
 
 }
 
-#banner .overlay {
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
-
 #banner .overlay .text {
   text-align: center;
   position: absolute;
