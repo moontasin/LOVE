@@ -318,7 +318,7 @@ draw();
 var typed = new Typed('.type', {
 	strings: [
 	  'YOU💖',
-	  'YOU JOTY',
+	  'YOU Zihan',
 	],
 	typeSpeed: 60,
 	backSpeed: 60,
