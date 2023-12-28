@@ -317,8 +317,8 @@ draw();
 // type js
 var typed = new Typed('.type', {
 	strings: [
-	  'Myself😍',
-	  'Me',
+	  'Affin😍',
+	  'Alo',
 	],
 	typeSpeed: 60,
 	backSpeed: 60,
