@@ -320,8 +320,8 @@ var typed = new Typed('.type', {
 	  'Affin💜',
 	  'Alo',
 	],
-	typeSpeed: 60,
-	backSpeed: 60,
+	typeSpeed: 80,
+	backSpeed: 80,
 	loop: true,
   });
 
